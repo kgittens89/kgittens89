@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **keishamsa@me.com**
 
-- ⚡ Fun fact **When I'm not coding, you can find on a yoga mat, in the airport, or at a local festival (preferably one with lots of food 😋)**
+- ⚡ Fun fact **When I'm not coding, you can find me on a yoga mat, in the airport, or at a local festival (preferably one with lots of food 😋)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
