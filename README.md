@@ -3,9 +3,9 @@
 
 ![modern-young-woman-sitting-on-260nw-1928965898](https://user-images.githubusercontent.com/93796800/149531581-6375c1d1-4530-4620-98cc-0d1f6f25669b.jpeg)
 
-- 🌱 I’m currently learning **Mongoose**
+- 🌱 I’m currently learning **Typescript**
 
-- 📫 How to reach me **keishamsa@me.com**
+- 📫 How to reach me **kmg052189@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding, you can find me on a yoga mat, in the airport, or at a local festival (preferably one with lots of food 😋)**
 
