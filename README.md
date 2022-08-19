@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋🏾, I'm Keisha</h1>
 <h3 align="center">A passionate fullstack developer from New Orleans, LA</h3>
 
-![modern-young-woman-sitting-on-260nw-1928965898](https://user-images.githubusercontent.com/93796800/149531581-6375c1d1-4530-4620-98cc-0d1f6f25669b.jpeg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/93796800/149531581-6375c1d1-4530-4620-98cc-0d1f6f25669b.jpeg">
+</p>
 
 - 🌱 I’m currently learning **Elixir/Phoenix**
 
-- 📫 How to reach me **kmg052189@gmail.com**
+- 📫 How to reach me **keisha.gittenssa@gmail.com**
 
-- ⚡ Fun fact **When I'm not coding, you can find me on a yoga mat, in the airport, or at a local festival (preferably one with lots of food 😋)**
+- 🙃 A little about me **When I'm not coding, you can find me on my yoga mat, traveling, or at a local festival (preferably one with lots of food 😋)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
