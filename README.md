@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/93796800/149531581-6375c1d1-4530-4620-98cc-0d1f6f25669b.jpeg">
 </p>
 
-- 🌱 I’m currently learning **Elixir/Phoenix**
+- 🌱 I’m currently learning **Elixir/Phoenix/LiveView**
 
 - 📫 How to reach me **keisha.gittenssa@gmail.com**
 
